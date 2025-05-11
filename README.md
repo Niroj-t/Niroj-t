@@ -7,8 +7,8 @@ Aspiring Web Developer with a solid foundation in JavaScript and a growing passi
 ---
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="200" width="450" src="https://github-readme-stats.vercel.app/api?username=Niroj-t&show_icons=true&theme=tokyonight" alt="Niroj-t GitHub Stats" />
-  <img height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niroj-t&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img height="100" width="230" src="https://github-readme-stats.vercel.app/api?username=Niroj-t&show_icons=true&theme=tokyonight" alt="Niroj-t GitHub Stats" />
+  <img height="100" width="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niroj-t&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
